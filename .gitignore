@@ -1,0 +1,5 @@
+venv/
+bin_classification_data/
+multiclass_classificaton_data/
+*.keras
+*.h5
